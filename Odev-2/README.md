@@ -1,7 +1,7 @@
 # 🎲 React Dice Game | React + Vite
 
 İki oyunculu basit ve eğlenceli bir zar atma oyunudur. React ve Vite kullanılarak geliştirilmiştir.
-*  - Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-9 / React - Dice Game** projesidir.
+* Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-9 / React - Dice Game** projesidir.
 * Modern ve responsive bir zar oyunu projesidir
 * **React**, **Vite**, **CSS3** ve **JavaScript** kullanılmıştır
 * Component yapısı ve Props sistemi ile geliştirilmiştir
