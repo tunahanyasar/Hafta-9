@@ -1,5 +1,6 @@
 # 🏋🏽 Sport Center Website Projesi | React
 - Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-9 / React - Sport Center** projesidir.
+* Hafta 8 de yapılan projenin React ile Component yapıları içerisinde yazılmış halidir.
 * Bu proje, modern ve responsive bir fitness websitesi projesidir.
 * **HTML**, **CSS**, **JavaScript** ve **React** kullanılmıştır.
 * Tamamen responsive tasarıma sahiptir.
