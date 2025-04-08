@@ -12,6 +12,9 @@
 ```bash
 git clone https://github.com/tunahanyasar/Hafta-9.git
 ```
+2. Proje Klasörüne Gidin
+```bash
+cd Odev-1
 2. Bağımlılıkları yükleyin.
 ```bash
 npm install
